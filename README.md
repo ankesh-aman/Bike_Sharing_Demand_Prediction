@@ -98,7 +98,6 @@ Model interpretability was addressed using the **SHAP library**, which provided 
 | Pandas, NumPy        | Data manipulation and analysis    |
 | Matplotlib, Seaborn  | Data visualization                |
 | Scikit-learn         | Model building and evaluation     |
-| XGBoost              | Gradient boosting implementation  |
 | Jupyter Notebook     | Interactive development           |
 
 ---
